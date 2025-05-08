@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "path": "^0.12.7"
+  },
+  "name": "first_api_rest",
+  "version": "1.0.0",
+  "description": "My First API REST ",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ovi11-dev/First_REST_API.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "OviDev11",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ovi11-dev/First_REST_API/issues"
+  },
+  "homepage": "https://github.com/Ovi11-dev/First_REST_API#readme"
+}
