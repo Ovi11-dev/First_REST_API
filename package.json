@@ -1,13 +1,22 @@
 {
   "dependencies": {
+<<<<<<< HEAD
     "express": "^5.1.0",
+=======
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "helmet": "^8.1.0",
+>>>>>>> 1c924b2 (New version (1.10) Server protection system. And the server and the rest almost finished. Ready to be hosted.)
     "path": "^0.12.7"
   },
   "name": "first_api_rest",
   "version": "1.0.0",
   "description": "My First API REST ",
   "main": "server.js",
+<<<<<<< HEAD
   "devDependencies": {},
+=======
+>>>>>>> 1c924b2 (New version (1.10) Server protection system. And the server and the rest almost finished. Ready to be hosted.)
   "scripts": {
     "test": "node server.js",
     "start": "node server.js"
